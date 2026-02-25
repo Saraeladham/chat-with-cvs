@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-groq
+langchain-qdrant
+pypdf
+sentence-transformers
+qdrant-client
+streamlit
+python-dotenv
