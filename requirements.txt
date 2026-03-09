@@ -1,8 +1,9 @@
 langchain
 langchain-community
-langchain-groq
+langchain-openai
 langchain-qdrant
-pypdf
+langchain-experimental
+pdfplumber
 sentence-transformers
 qdrant-client
 streamlit
